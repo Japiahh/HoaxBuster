@@ -1,2 +1,2 @@
 # HoaxBuster
-SVM Mechine Learning Project
+SVM Machine Learning Project
