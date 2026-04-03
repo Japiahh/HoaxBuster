@@ -2,8 +2,6 @@
 
 **TF-IDF + SVM**
 
----
-
 ## About the Project
 
 **Hoax Buster Indonesia** is a web-based application designed to detect whether a news article or official document (including PDF circular letters) is **Fact** or **Hoax**. 
