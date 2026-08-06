@@ -29,7 +29,6 @@ This project leverages **Machine Learning** as a solution to automatically and q
 - **Labels**: Binary (1 = Hoax, 0 = Fact)
 - **Features Used**: `narasi` (narrative/content) and `label`
 
----
 
 ## Methodology
 
