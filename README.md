@@ -54,8 +54,6 @@ This project leverages **Machine Learning** as a solution to automatically and q
 **Why Linear Kernel?**  
 With high-dimensional text data (10,000 features), the data is usually linearly separable. Linear SVM is faster and more effective at preventing overfitting on large text datasets.
 
----
-
 ## Model Performance
 
 - **Training Score**: 99.7%
@@ -93,8 +91,6 @@ This project contributes to the United Nations Sustainable Development Goals (SD
 - **Goal 16.10**: Peace, Justice, and Strong Institutions – Information Integrity
 - **Goal 17.16**: Partnerships for the Goals
 
----
-
 ## Core Contributors
 
 **Kupat Tahu Padalarang**  
@@ -102,14 +98,10 @@ This project contributes to the United Nations Sustainable Development Goals (SD
 - Japiahh
 - Xyuuzu
 
----
-
 ## Conclusion
 
 The combination of **TF-IDF + Linear SVM** has proven to be highly efficient for hoax news classification in Indonesian language. The deployment using Streamlit makes the project easy to use and suitable for experimental and educational purposes.
 
 This application can serve as a practical tool to increase public awareness and digital literacy regarding hoax news in Indonesia.
-
----
 
 **Made with ❤️ for a more informed Indonesia**
